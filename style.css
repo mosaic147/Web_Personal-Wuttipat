@@ -1,0 +1,150 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #40514E;
+}
+
+.top-cloud{
+   position: absolute;
+   right: 350px;
+   top: 50px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    padding: 0;
+    color: white;
+    
+}
+
+.top-container h2{
+    color: white;
+    font-family: "Helvetica" , sans-serif;
+    
+   
+}
+h2{
+    color: #66BFBF;
+    font-family: "Helvetica" , sans-serif;
+    margin-top: 60px;
+    font-size: 2rem;
+}
+h3{
+    color: #11999E;
+    font-family: "Helvetica" , sans-serif;
+} 
+a{
+    color:#11999E ;
+    text-decoration: none;
+    font-family: "Helvetica" , sans-serif;
+}
+
+
+.top-container p{
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5rem;
+    margin: 0;
+    padding:0;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 500px;
+}
+
+.top-container{
+  background-color: steelblue;
+  padding-top: 100px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.skill-row p{
+   line-height: 2;
+}
+
+.img-developer{
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.gif-type{
+    width: 15%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile img{
+    width: 15%;
+    border-radius: 50%;
+    margin-top: 3.1rem;
+}
+
+
+hr{
+    border-style: dotted;
+    border-width: 0.5rem;
+    border-top: none;
+    width: 4%;
+    color: gray;
+    margin-top: 80px;
+}
+
+.btnContact{
+    background-color: #11999E;
+    color: white;
+    padding: 7px 15px;
+    border: none;
+    border-radius: 0.5rem;
+}
+.btnContact a{
+    font-size: 1.5rem;
+    color: white;
+}
+
+
+
+.contact-me button{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+.middle-container{
+  
+}
+
+.bottom-container{
+  margin-top: 100px;
+  background-color: #66BFBF;
+  padding: 20px;
+}
+.bottom-container p{
+     color: #EAF6F6;
+  }
+  .bottom-container a{
+    font-weight: bold;
+    font-size: 1.2rem;
+    transition: 0.3s;
+ }
+
+ .bottom-container a:hover{
+    transition: 0.3s;
+    color: white;
+ }
+
+
+
+
+
+
